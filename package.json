@@ -5,6 +5,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "files": [
+    "citeproc.js",
+    "src/xmle4x.js",
+    "src/xmldom.js"
+  ],
   "repository": {
     "type": "git",
     "url": "ssh://git@github.com:Juris-M/citeproc-js.git"
